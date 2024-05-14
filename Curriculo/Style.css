@@ -1,0 +1,21 @@
+body{
+    background-image:url(../Photograph/Currículo.png) ;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-size: 100%;
+    
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; /* Remove o sublinhado do link */
+}
+button:hover {
+    background-color: #0056b3;
+}
